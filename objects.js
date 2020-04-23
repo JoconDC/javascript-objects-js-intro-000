@@ -9,4 +9,6 @@ function updatePlaylist(obj, key, value) {
   return playlist
 }
 
+function removeFromPlaylist() {
 delete playlist.Slowdive;
+}
