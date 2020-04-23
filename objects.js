@@ -1,6 +1,6 @@
 
 var playlist = {
-  'Slowdive': 'Thriller',
+  'Slowdive': 'Alison',
   'My Bloody Valentine': 'Sometimes'
 }
 
