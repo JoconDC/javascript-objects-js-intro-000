@@ -5,5 +5,5 @@ var playlist = {
 }
 
 function updatePlaylist() {
-    return Object.assign({}, playlist, { ['Here\'s to the State of Mississippi']: 'Phil Ochs'})
+    return Object.assign({}, playlist, { ['Phil Ochs']: 'Here\'s to the State of Mississippi'})
   }
